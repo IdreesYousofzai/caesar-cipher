@@ -12,7 +12,6 @@ A lightweight, interactive Python command-line application that encrypts and dec
 * **Case Preservation:** Maintains uppercase and lowercase formatting from the original message.
 * **Character Safety:** Spaces, punctuation, and numeric characters are left untouched during processing.
 * **Input Validation:** Built-in error handling ensures valid operation modes and numeric keys are entered.
-
 ---
 
 ## How It Works
