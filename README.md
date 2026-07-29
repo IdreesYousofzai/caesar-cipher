@@ -1,6 +1,6 @@
 <img width="800"  alt="image" src="https://github.com/user-attachments/assets/00ff40dc-c64c-49a2-bcc7-69355072e122" />
 
-```markdown
+
 # Caesar Cipher Tool
 
 A lightweight, interactive Python command-line application that encrypts and decrypts text using the classic Caesar Cipher algorithm. 
@@ -35,7 +35,7 @@ This script handles wrapping around the alphabet automatically using mathematica
 ```bash
 python caesar_cipher.py
 
-```
+
 
 ---
 
